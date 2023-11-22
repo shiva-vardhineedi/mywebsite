@@ -8,11 +8,22 @@
     'Git',
     'Django',
     'Docker',
+    'C',
+    'C++',
     'Java',
     'Python',
     'AWS',
     'Tensorflow',
-    'MongoDB'
+    'MySQL',
+    'MongoDB',
+    'NodeJS',
+    'Pytorch',
+    'OpenCV',
+    'MaterialUI',
+    'Selenium',
+    'Kafka'
+
+
 
 
 ]
